@@ -5,4 +5,4 @@ Folders contain following files:
 2) GERB: gerber files for production (upload to JLCPCB and have fun), 
 3) Kicad: Kicad 6 project files, so you can fiddle to your hert's content.
 
-I have also uploaded a schematic in pdf file and sample code in micropython for Wemos D1 mini (ESP8266) and Wemos S2 (ESP32) boards in main folder. **Tripple check GPIOs on your version of ESP before uploading the code**
+I have also uploaded a schematic in pdf file and sample code in micropython for Wemos D1 mini (ESP8266) and Wemos S2 (ESP32) boards in main folder. **Tripple check GPIOs on your version of ESP before uploading the code!**
