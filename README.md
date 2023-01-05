@@ -1,4 +1,5 @@
-# photo_table![Photo_table](https://user-images.githubusercontent.com/121867860/210368397-0b7a385e-b9f3-4f06-ab38-26f59a5992ff.png)
+# photo_table
+<img src="https://user-images.githubusercontent.com/121867860/210368397-0b7a385e-b9f3-4f06-ab38-26f59a5992ff.png" width=70% height=70%>
 
 Folders contain following files:
 1) CAD: table step and stl files for NEMA17 and NEMA23 type stepper motors, 
